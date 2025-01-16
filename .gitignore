@@ -1,0 +1,3 @@
+# We are ignoring the whole of the child folder here as we don't need it and have no changes in it. 
+# The full contents of this folder can be downloaded from https://github.com/Azure/azure-iot-sdk-csharp.git 
+**/quickstarts-send_telememetry_using_sdk/*
